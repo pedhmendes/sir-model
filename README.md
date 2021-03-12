@@ -6,4 +6,4 @@ Later I did an dynamical code, where the particles move in a matrix. If a suscep
 
 In all my models the particles/persons cannot die. 
 
-All comments are in portugese.
+All comments are in portuguese.
