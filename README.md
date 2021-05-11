@@ -8,5 +8,7 @@ In all my models the particles/persons cannot die.
 
 All comments are in portuguese.
 
-# Presentation
+# Update / Presentation
 I did a presentation about SIR Model for Introduction to Dynamical Systems. The pdf and tex source can be found in this repo.
+
+I also updated the codes, there is new plots and gifs.
